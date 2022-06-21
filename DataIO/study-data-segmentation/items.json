@@ -1,0 +1,107 @@
+[
+  {
+    "name": "BraTS2021_00003",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t2.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t1.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_flair.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00003/BraTS2021_00003_t2_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00003/BraTS2021_00003_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00003/BraTS2021_00003_t1_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00003/BraTS2021_00003_flair_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00005",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t2.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t1.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00005/BraTS2021_00005_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00005/BraTS2021_00005_t2_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00005/BraTS2021_00005_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00005/BraTS2021_00005_t1_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00002",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t2.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t1.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t1ce.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00002/BraTS2021_00002_t2_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00002/BraTS2021_00002_t1_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00002/BraTS2021_00002_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00002/BraTS2021_00002_t1ce_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00009",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t2.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t1.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00009/BraTS2021_00009_t2_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00009/BraTS2021_00009_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00009/BraTS2021_00009_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00009/BraTS2021_00009_t1_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00000",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t1.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t2.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00000/BraTS2021_00000_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00000/BraTS2021_00000_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00000/BraTS2021_00000_t1_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00000/BraTS2021_00000_t2_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00006",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t1.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t2.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00006/BraTS2021_00006_t1_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00006/BraTS2021_00006_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00006/BraTS2021_00006_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00006/BraTS2021_00006_t2_seg.nii.gz"
+    ]
+  },
+  {
+    "name": "BraTS2021_00008",
+    "items": [
+      "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t2.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t1ce.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_flair.nii.gz",
+      "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t1.nii.gz"
+    ],
+    "segmentations": [
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00008/BraTS2021_00008_t2_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00008/BraTS2021_00008_t1ce_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00008/BraTS2021_00008_flair_seg.nii.gz",
+      "brain-brats-study/NIFTI_segmentations/BraTS2021_00008/BraTS2021_00008_t1_seg.nii.gz"
+    ]
+  }
+]

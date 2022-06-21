@@ -5,3 +5,6 @@ redbrick-consensus/
 export-formats/
 *.DS_STORE*
 brain-brats
+
+# Data IO
+DataIO/*.json
