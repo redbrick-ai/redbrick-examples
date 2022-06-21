@@ -2,7 +2,7 @@
 
 Maps between NIfTI class ID and RedBrick AI category name
 
-```json
+```js
 {
     "1": "category-name",
     "2": "category-name-2"
@@ -17,7 +17,7 @@ Defines the list of instances/series/studies to upload, along with the correspon
 
 ## Semantic Segmentation
 
-```json
+```js
 [
   // Each entry in this list is a study/task on RedBrick AI
   {
