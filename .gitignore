@@ -1,2 +1,7 @@
 # python env
 */env
+move-tasks-back/
+redbrick-consensus/
+export-formats/
+*.DS_STORE*
+brain-brats
