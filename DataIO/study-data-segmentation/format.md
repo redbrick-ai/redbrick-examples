@@ -35,7 +35,7 @@ Defines the list of instances/series/studies to upload, along with the correspon
 
     // Corresponding segmentation files to the series above
     // If your annotations are stored locally, these paths will be relative to the JSON file's location.
-    // If your annotations are stored in the cloud, these paths will be relative to the path your defined
+    // If your annotations are stored in the cloud, these paths will be relative to the path you defined
     // while setting the project labelstorage location.
     "segmentations": [
       "path/to/series01_seg.nii",
