@@ -1,0 +1,149 @@
+[
+  {
+    "name": "BraTS2021_00003",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t2.nii.gz",
+        "name": "BraTS2021_00003_t2"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t1ce.nii.gz",
+        "name": "BraTS2021_00003_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_t1.nii.gz",
+        "name": "BraTS2021_00003_t1"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00003/BraTS2021_00003_flair.nii.gz",
+        "name": "BraTS2021_00003_flair"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00005",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t1ce.nii.gz",
+        "name": "BraTS2021_00005_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t2.nii.gz",
+        "name": "BraTS2021_00005_t2"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_flair.nii.gz",
+        "name": "BraTS2021_00005_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00005/BraTS2021_00005_t1.nii.gz",
+        "name": "BraTS2021_00005_t1"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00002",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t2.nii.gz",
+        "name": "BraTS2021_00002_t2"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t1.nii.gz",
+        "name": "BraTS2021_00002_t1"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_flair.nii.gz",
+        "name": "BraTS2021_00002_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00002/BraTS2021_00002_t1ce.nii.gz",
+        "name": "BraTS2021_00002_t1ce"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00009",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t2.nii.gz",
+        "name": "BraTS2021_00009_t2"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t1ce.nii.gz",
+        "name": "BraTS2021_00009_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_flair.nii.gz",
+        "name": "BraTS2021_00009_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00009/BraTS2021_00009_t1.nii.gz",
+        "name": "BraTS2021_00009_t1"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00000",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_flair.nii.gz",
+        "name": "BraTS2021_00000_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t1ce.nii.gz",
+        "name": "BraTS2021_00000_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t1.nii.gz",
+        "name": "BraTS2021_00000_t1"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00000/BraTS2021_00000_t2.nii.gz",
+        "name": "BraTS2021_00000_t2"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00006",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t1.nii.gz",
+        "name": "BraTS2021_00006_t1"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_flair.nii.gz",
+        "name": "BraTS2021_00006_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t1ce.nii.gz",
+        "name": "BraTS2021_00006_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00006/BraTS2021_00006_t2.nii.gz",
+        "name": "BraTS2021_00006_t2"
+      }
+    ]
+  },
+  {
+    "name": "BraTS2021_00008",
+    "series": [
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t2.nii.gz",
+        "name": "BraTS2021_00008_t2"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t1ce.nii.gz",
+        "name": "BraTS2021_00008_t1ce"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_flair.nii.gz",
+        "name": "BraTS2021_00008_flair"
+      },
+      {
+        "items": "brain-brats-study/NIFTI_images/BraTS2021_00008/BraTS2021_00008_t1.nii.gz",
+        "name": "BraTS2021_00008_t1"
+      }
+    ]
+  }
+]
